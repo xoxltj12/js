@@ -1,0 +1,48 @@
+*{color:black;}
+a:link{color: black; text-decoration: none;}
+a:visited{color: red;}
+a:hover{text-decoration: overLine;}
+
+h1,h2,h3{
+	color: red;
+}
+
+div ul li{
+	color: red;
+}
+
+div{
+	width : 200px;
+	height : 100px;
+	color : blue;
+	background-color: green;
+	opacity: 0.9;
+}
+
+div:hover{
+	width:1000px;
+	height : 50px;
+	background-color: red;
+	opacity: 0.5;
+}
+
+div.d1{
+	border : 1px dashed;
+	width : 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{color:blue;}
+p{color:yellow;}
+p{color:red;}
